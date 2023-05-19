@@ -1,0 +1,32 @@
+header {
+  background-color: #f4f0ec;
+}
+
+.postTitle {
+  background-color: #f4f0ec;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #fbec5d;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+img {
+    background-color: #fff;
+    padding: 4px;
+}
+
+.imgWrapper {
+  background-color: #f4f0ec;
+}
+
+main {
+    background-color: #ffebcd;
+}
+
+.trailer {
+    background-color: #808080;
+}
