@@ -19,11 +19,11 @@ Unity Candle Ceremony, Blessing of the Rings, Breaking of the Glass, Flower Cere
 
 ## Fee Schedule
 
-In my Morris Plains office - $250
+In my Morris Plains office - $350
 
-At your selected NJ location - $350
+At your selected NJ location - $450
 
-In NY or PA - $400
+In NY or PA - $550
 
 ## Contact Information
 
